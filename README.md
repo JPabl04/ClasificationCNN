@@ -1,6 +1,6 @@
 # **Clasificating Hand-Written Characters using Convolutional Neuronal Networks.**
 
-Convolutional Neuronal Networks (_CNN_) are commonly used when we are interested in the clasification of images. The following project serves as a basic classificator of Hand-Written characters which goes from 0 to 9 and from A to Z (including lowercase and capital letters). In this model I implemented three types of Networks:
+Convolutional Neuronal Networks (_CNN_) are extensively employed in image classification. The following project acts as a basic classifier of Hand-Written characters ranging from 0 to 9 and from A to Z (including lowercase and capital letters). I used three different types of networks in this model:
 
 + A dense one (_Dense_)
 + One without DropOut (_CNN_)
@@ -20,4 +20,4 @@ It's easy to see that the _CNN&DO_ has a better performance than the _CNN_ does
 
 ![gain(2)](https://github.com/JPabl04/ClasificationCNN/assets/142553256/a439e667-7f32-4fdf-b8dc-bae6a8ac8713)
 
-From this one can note that CNN are in fact better for image classification than conventional Dense Neural Networks. In adition, the continuation for this project could be the classification of words instead.
+This shows that CNN are better than conventional Dense Neural Networks for picture classification. Furthermore, the continuation of this project could involve word classification alternatively.
